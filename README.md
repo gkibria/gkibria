@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gkibria
-- 👀 I’m interested in Javascript Development
+- 👀 I’m a full-stack Javascript Developer
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on health related projects
 - 📫 How to reach me gkibria.com
