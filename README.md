@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gkibria
+- 👋 Hi, I’m Dr. Kibria
 - 👀 I’m a full-stack Developer (PHP, Laravel, Python, VueJs)
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on health-related projects
